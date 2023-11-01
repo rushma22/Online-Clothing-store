@@ -1,0 +1,4 @@
+[19-Sep-2023 20:53:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MjIxOTQyODA0MjQ2NjIzMjIyNDg1OTE5NzQxNDkwNDM2MjIz" in D:\Downloads\xammp1\htdocs\eshop\payNowProcess.php:54
+Stack trace:
+#0 {main}
+  thrown in D:\Downloads\xammp1\htdocs\eshop\payNowProcess.php on line 54
